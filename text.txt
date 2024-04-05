@@ -1,0 +1,20 @@
+Requirement-
+One to one chat
+group chat
+message save
+
+Entities
+
+
+userSchema
+-username
+-password
+-contact
+-img
+-socketId(online/offline)
+
+
+
+password = sxWLp8htqMai3BhZ
+usernmae - arpitabais19
+
